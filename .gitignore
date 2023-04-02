@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+.DS_Store
+scripts/.DS_Store
+scrapped scripts/
+
+#don't push large .tiffs or annotation tiles. 
+figures/
+rosm.cache/
+#don't push large data files. (see data in manuscript's appendix if interested.)
+data/ 
+data output/
+

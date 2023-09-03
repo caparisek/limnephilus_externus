@@ -1,4 +1,4 @@
-Code for the manuscript, "Morphological plasticity in a caddisfly that co-occurs in lakes and streams".
+Code for the manuscript, "[Morphological plasticity in a caddisfly that co-occurs in lakes and streams]([url](https://doi.org/10.1086/725455))".
 
 Christine A. Parisek 1,3 *, Michael P. Marchetti 2, Matthew R. Cover 1
 
